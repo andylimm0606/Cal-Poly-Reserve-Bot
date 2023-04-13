@@ -1,4 +1,4 @@
-Personal project with a peer (Sean Hue).
+Personal project with a friend
 
 Description: Cal-Poly has a library fish bowl (private study room) reservation site
 that requires user to reserve hourly base rooms 24 hours in advance. This web-bot is a tool
